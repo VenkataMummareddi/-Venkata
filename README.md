@@ -1,4 +1,4 @@
-<h1>Hi there  👋  I’m Venkata </h1>
+<h1>Hi 👋  I’m Venkata </h1>
 
 - 🌱 I’m currently learning AI @ <a href=https://becode.org/>BeCode.org</a>
 - 👀 I’m looking for internship in AI Data
