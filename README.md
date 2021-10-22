@@ -2,7 +2,9 @@
 
 - 🌱 I’m currently learning AI @ <a href=https://becode.org/>BeCode.org</a>
 - 👀 I’m looking for internship in AI Data
-- 🔭 I had around 15 years experience in ICT as Lead Analyst Developer,Subject Matter Expert ,Scrum Master and Junior Architect.
+- 🔭 I had around 15 years experience in ICT 
+- Worked as Lead Analyst Developer,Subject Matter Expert ,Scrum Master and Junior Architect.
+- Worked in Banking,Government Sector,Health care and Telecommunications domains
 <p>I got hooked by the field of machine learning. I'm eager to learn and apply new related technologies and concepts.</p>
 
 
